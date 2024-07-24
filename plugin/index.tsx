@@ -7,7 +7,7 @@ app.html("/", async (ctx) => {
         <title>Fun Box</title>
       </head>
       <body>
-        <h1>Galchenkov Release Main branch</h1>
+        <h1>Galchenkov Release II Main branch</h1>
         <p>{Date.now()}</p>
       </body>
     </html>
